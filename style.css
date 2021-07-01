@@ -16,13 +16,24 @@
         grid-row-gap: 10px;
     }
 
+    .container {
+        font-family: Roboto;
+        width: 304px; /* Ширина блока */
+        padding: 0px; /* Поля */
+        margin-top: 10px; /* Отступ сверху */
+        box-sizing: border-box; /* Ширина блока с полями */
+        border: 2px solid #e2e2e2; /* Рамка вокруг таблицы */
+            color: #333333;
+            background-color: #FFFFFF;
+    }
+
     .boots {
         margin-top: 30px;
         font-size: 20px;
         margin-left: 25px;
     }
 
-    .boots2 {
+    .description {
         font-size: 15px;
         margin-left: 25px;
         line-height: 20px;
@@ -43,27 +54,13 @@
 
     .icon {
         position: relative;
-        width: 40px;
+        width: 50px;
         height: 40px;
         top: 10px; left: 100px;
         padding: 5px;
     }
 
-    .container {
-        font-family: Roboto;
-        width: 305px; /* Ширина блока */
-        padding: 0px; /* Поля */
-        margin-top: 10px; /* Отступ сверху */
-        box-sizing: border-box; /* Ширина блока с полями */
-        border: 2px solid #e2e2e2; /* Рамка вокруг таблицы */
-            color: #333333;
-            background-color: #FFFFFF;
-    }
-
-    .price1 {
-        margin-bottom: 30px;
-    }
-
+  
 
    
    
