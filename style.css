@@ -18,7 +18,7 @@
 
     .container {
         font-family: Roboto;
-        width: 304px; /* Ширина блока */
+        width: 305px; /* Ширина блока */
         padding: 0px; /* Поля */
         margin-top: 10px; /* Отступ сверху */
         box-sizing: border-box; /* Ширина блока с полями */
@@ -54,7 +54,7 @@
 
     .icon {
         position: relative;
-        width: 50px;
+        width: 45px;
         height: 40px;
         top: 10px; left: 100px;
         padding: 5px;
